@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  *<code>@Service</code>を用いた場合にも、普通にListener動いたのでコメントアウト.<br>
  *<br>
  *なお、複数回、コメントアウトを外して実行してみた限りでは<br>
- *<code>@Service</code>を用いた場合も<br>
+ *<code>@Bean</code>を用いた場合も<br>
  *Order指定が同値となっている箇所を除いて、<br>
  *Order指定の順番で各種メソッドが呼ばれているように見受けられる。
  */
