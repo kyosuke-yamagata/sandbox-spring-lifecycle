@@ -2,6 +2,10 @@
 sandbox project for Spring Boot Bean Lifecycle
 
 # Console logs
+・コメント無し版
+https://github.com/kyosuke-yamagata/sandbox-spring-lifecycle/blob/master/sandbox-spring-lifecycle/log-summary
+
+・コメント付与版
 
 ```java
 /** ここよりも前は、割愛 **/
